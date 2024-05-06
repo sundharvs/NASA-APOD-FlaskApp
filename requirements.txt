@@ -7,5 +7,5 @@ MarkupSafe==1.1.1
 Pillow==6.2.1
 pytz==2019.3
 reportlab==3.5.32
-Werkzeug==0.16.0
+Werkzeug==3.0.3
 zope.interface==4.7.1
